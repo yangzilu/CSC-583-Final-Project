@@ -1,4 +1,8 @@
 CSC-583-Final-Project
+------------
+
+Author: Yangzi Lu [yangzilu@email.arizona.edu](mailto:yangzilu@email.arizona.edu)  
+Date: December 9, 2020
 
 ## Notes
 
